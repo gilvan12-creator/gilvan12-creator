@@ -1,7 +1,7 @@
 ## Hello! I am Gilvan Almeida !
 
-*🌎 Brazilian
-*💬 Languages: English/Portuguese
+* 🌎 Brazilian
+* 💬 Languages: English/Portuguese
 
 <div >
   <a href="https://github.com/gilvan12-creator">
