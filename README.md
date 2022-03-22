@@ -2,7 +2,7 @@
 
 
 
-<div align="center">
+<div >
   <a href="https://github.com/gilvan12-creator">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gilvan12-creator&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvan12-creator&theme=tokyonight&hide_border=false&&layout=compact"/>
